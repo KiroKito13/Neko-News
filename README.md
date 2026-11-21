@@ -1,4 +1,4 @@
-# Rebel Gaming Republic announcement relay
+# Neko News announcement relay
 
 Run one copy on your PC or an always-on host. It polls about every 12 seconds, reads one Discord inbox, and posts to one Fluxer channel. A single Fluxer operator controls subscriptions in that channel. Requires Python 3.11 or newer. No Python packages to install.
 
